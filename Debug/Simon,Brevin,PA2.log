@@ -1,0 +1,13 @@
+﻿  main.c
+c:\users\brevin simon\documents\simon,brevin,pa2\simon,brevin,pa2\main.c(15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\brevin simon\documents\simon,brevin,pa2\simon,brevin,pa2\main.c(47): warning C4013: 'printList' undefined; assuming extern returning int
+c:\users\brevin simon\documents\simon,brevin,pa2\simon,brevin,pa2\main.c(66): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node *'
+c:\users\brevin simon\documents\simon,brevin,pa2\simon,brevin,pa2\main.c(66): warning C4024: 'editSong': different types for formal and actual parameter 1
+c:\users\brevin simon\documents\simon,brevin,pa2\simon,brevin,pa2\main.c(82): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node *'
+c:\users\brevin simon\documents\simon,brevin,pa2\simon,brevin,pa2\main.c(82): warning C4024: 'changeRating': different types for formal and actual parameter 1
+c:\users\brevin simon\documents\simon,brevin,pa2\simon,brevin,pa2\main.c(90): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node *'
+c:\users\brevin simon\documents\simon,brevin,pa2\simon,brevin,pa2\main.c(90): warning C4024: 'playSong': different types for formal and actual parameter 1
+c:\users\brevin simon\documents\simon,brevin,pa2\simon,brevin,pa2\main.c(99): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node *'
+c:\users\brevin simon\documents\simon,brevin,pa2\simon,brevin,pa2\main.c(99): warning C4024: 'playSong': different types for formal and actual parameter 1
+  Simon,Brevin,PA2.vcxproj -> C:\Users\brevin Simon\Documents\Simon,Brevin,PA2\Debug\Simon,Brevin,PA2.exe
+  Simon,Brevin,PA2.vcxproj -> C:\Users\brevin Simon\Documents\Simon,Brevin,PA2\Debug\Simon,Brevin,PA2.pdb (Full PDB)
